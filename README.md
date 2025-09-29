@@ -5,4 +5,4 @@ About thirty years ago, we were still using tight able to shine two sheets of pa
 [^] Increase Opacity.
 [v] Decrease Opacity.
 [...] Load image file.
-[P] Pase image from clipboard.
+[P] Paste image from clipboard.
