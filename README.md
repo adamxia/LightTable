@@ -3,4 +3,4 @@ Usage:
 [^] Increase Opacity.
 [v] Decrease Opacity.
 [...] Load image file.
-[P] Pase image from clipboard.
+[P] Paste image from clipboard.
